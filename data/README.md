@@ -3,7 +3,7 @@
 This directory contains scripts that are used to download data, but not the data themselves.
 
 The text of the [license to use Copernicus products](./license-to-use-copernicus-products.txt) was retrieved from
-(https://ads.atmosphere.copernicus.eu)[https://ads.atmosphere.copernicus.eu] on 3 February 2025.
+[https://ads.atmosphere.copernicus.eu](https://ads.atmosphere.copernicus.eu) on 3 February 2025.
 
 # CAMS_EAC4
 
